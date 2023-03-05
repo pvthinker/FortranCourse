@@ -32,7 +32,7 @@ Notice that there are other Fortran compilers, e.g.'ifort' the Intel compiler. A
 """
 
 FC = "gfortran"
-FFLAGS = "-Wall"
+FFLAGS = "-Wall -cpp"
 
 
 def compile(fortran_file):

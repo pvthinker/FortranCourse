@@ -20,6 +20,9 @@ program references
   print*,""
   print*,"  - list of Fortran intrinsics"
   print*,"    https://gcc.gnu.org/onlinedocs/gfortran/Intrinsic-Procedures.html#Intrinsic-Procedures"
+
+  print*,""
+  print*,"  - https://riptutorial.com/fortran"
   print*,""
 
 

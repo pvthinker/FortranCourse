@@ -13,11 +13,11 @@ program summary
   print*,""
 
   call print_item('hello.f90')
+  call print_item('pi.f90')
   call print_item('syntax.f90')
   call print_item('datatypes.f90')
   call print_item('math.f90')
   call print_item('parameters.f90')
-  call print_item('pi.f90')
   call print_item('constants.f90')
   call print_item('controlflow.f90')
   call print_item('arrays.f90')
