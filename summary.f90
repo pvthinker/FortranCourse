@@ -24,6 +24,7 @@ program summary
   call print_item('arrays2.f90')
   call print_item('compile.py')
   call print_item('subroutines.f90')
+  call print_item('using_cpp.f90')
   call print_item('summary.f90')
   call print_item('references.f90')
 
